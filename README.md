@@ -85,12 +85,6 @@ Visit `http://your-ec2-public-ip` in your browser. You should see your sample PH
 
 ---
 
-## 📸 Screenshot
-
-![Deployment Screenshot](screenshot.png)
-
----
-
 ## 👨‍💻 Author
 
 **Aryan Sharma**  
